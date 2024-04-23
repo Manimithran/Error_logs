@@ -1,0 +1,78 @@
+2024-04-13 08:01:23 - Access point 1 - Connection established with device 192.168.1.100
+2024-04-13 08:05:42 - Access point 2 - Connection lost with device 192.168.1.101
+2024-04-13 08:10:15 - Access point 3 - Device 192.168.1.102 failed to authenticate
+2024-04-13 08:12:30 - Access point 1 - Connection lost with device 192.168.1.100
+2024-04-13 08:15:59 - Access point 2 - Connection established with device 192.168.1.103
+2024-04-13 08:20:04 - Access point 3 - Device 192.168.1.104 successfully connected
+2024-04-13 08:25:12 - Access point 1 - Connection established with device 192.168.1.105
+2024-04-13 08:30:45 - Access point 2 - Device 192.168.1.106 disconnected unexpectedly
+2024-04-13 08:35:21 - Access point 3 - Connection lost with device 192.168.1.107
+2024-04-13 08:40:10 - Access point 1 - Device 192.168.1.108 failed to associate
+2024-04-13 08:45:58 - Access point 2 - Error: Unable to establish connection with device 192.168.1.109
+2024-04-13 08:50:33 - Access point 3 - Device 192.168.1.110 disconnected due to error
+2024-04-13 08:55:20 - Access point 1 - Connection established with device 192.168.1.111
+2024-04-13 08:01:23 - Access point 1 - Connection established with device 192.168.1.100
+2024-04-13 08:05:42 - Access point 2 - Connection lost with device 192.168.1.101
+2024-04-13 08:10:15 - Access point 3 - Device 192.168.1.102 failed to authenticate
+2024-04-13 08:12:30 - Access point 1 - Connection lost with device 192.168.1.100
+2024-04-13 08:15:59 - Access point 2 - Connection established with device 192.168.1.103
+2024-04-13 08:20:04 - Access point 3 - Device 192.168.1.104 successfully connected
+2024-04-13 08:25:12 - Access point 1 - Connection established with device 192.168.1.105
+2024-04-13 08:30:45 - Access point 2 - Device 192.168.1.106 disconnected unexpectedly
+2024-04-13 08:35:21 - Access point 3 - Connection lost with device 192.168.1.107
+2024-04-13 08:40:10 - Access point 1 - Device 192.168.1.108 failed to associate
+2024-04-13 08:45:58 - Access point 2 - Error: Unable to establish connection with device 192.168.1.109
+2024-04-13 08:50:33 - Access point 3 - Device 192.168.1.110 disconnected due to error
+2024-04-13 08:55:20 - Access point 1 - Connection established with device 192.168.1.111
+2024-04-13 08:01:23 - Access point 1 - Connection established with device 192.168.1.100
+2024-04-13 08:05:42 - Access point 2 - Connection lost with device 192.168.1.101
+2024-04-13 08:10:15 - Access point 3 - Device 192.168.1.102 failed to authenticate
+2024-04-13 08:12:30 - Access point 1 - Connection lost with device 192.168.1.100
+2024-04-13 08:15:59 - Access point 2 - Connection established with device 192.168.1.103
+2024-04-13 08:20:04 - Access point 3 - Device 192.168.1.104 successfully connected
+2024-04-13 08:25:12 - Access point 1 - Connection established with device 192.168.1.105
+2024-04-13 08:30:45 - Access point 2 - Device 192.168.1.106 disconnected unexpectedly
+2024-04-13 08:35:21 - Access point 3 - Connection lost with device 192.168.1.107
+2024-04-13 08:40:10 - Access point 1 - Device 192.168.1.108 failed to associate
+2024-04-13 08:45:58 - Access point 2 - Error: Unable to establish connection with device 192.168.1.109
+2024-04-13 08:50:33 - Access point 3 - Device 192.168.1.110 disconnected due to error
+2024-04-13 08:55:20 - Access point 1 - Connection established with device 192.168.1.111
+2024-04-13 08:01:23 - Access point 1 - Connection established with device 192.168.1.100
+2024-04-13 08:05:42 - Access point 2 - Connection lost with device 192.168.1.101
+2024-04-13 08:10:15 - Access point 3 - Device 192.168.1.102 failed to authenticate
+2024-04-13 08:12:30 - Access point 1 - Connection lost with device 192.168.1.100
+2024-04-13 08:15:59 - Access point 2 - Connection established with device 192.168.1.103
+2024-04-13 08:20:04 - Access point 3 - Device 192.168.1.104 successfully connected
+2024-04-13 08:25:12 - Access point 1 - Connection established with device 192.168.1.105
+2024-04-13 08:30:45 - Access point 2 - Device 192.168.1.106 disconnected unexpectedly
+2024-04-13 08:35:21 - Access point 3 - Connection lost with device 192.168.1.107
+2024-04-13 08:40:10 - Access point 1 - Device 192.168.1.108 failed to associate
+2024-04-13 08:45:58 - Access point 2 - Error: Unable to establish connection with device 192.168.1.109
+2024-04-13 08:50:33 - Access point 3 - Device 192.168.1.110 disconnected due to error
+2024-04-13 08:55:20 - Access point 1 - Connection established with device 192.168.1.111
+2024-04-13 08:01:23 - Access point 1 - Connection established with device 192.168.1.100
+2024-04-13 08:05:42 - Access point 2 - Connection lost with device 192.168.1.101
+2024-04-13 08:10:15 - Access point 3 - Device 192.168.1.102 failed to authenticate
+2024-04-13 08:12:30 - Access point 1 - Connection lost with device 192.168.1.100
+2024-04-13 08:15:59 - Access point 2 - Connection established with device 192.168.1.103
+2024-04-13 08:20:04 - Access point 3 - Device 192.168.1.104 successfully connected
+2024-04-13 08:25:12 - Access point 1 - Connection established with device 192.168.1.105
+2024-04-13 08:30:45 - Access point 2 - Device 192.168.1.106 disconnected unexpectedly
+2024-04-13 08:35:21 - Access point 3 - Connection lost with device 192.168.1.107
+2024-04-13 08:40:10 - Access point 1 - Device 192.168.1.108 failed to associate
+2024-04-13 08:45:58 - Access point 2 - Error: Unable to establish connection with device 192.168.1.109
+2024-04-13 08:50:33 - Access point 3 - Device 192.168.1.110 disconnected due to error
+2024-04-13 08:55:20 - Access point 1 - Connection established with device 192.168.1.111
+2024-04-13 08:01:23 - Access point 1 - Connection established with device 192.168.1.100
+2024-04-13 08:05:42 - Access point 2 - Connection lost with device 192.168.1.101
+2024-04-13 08:10:15 - Access point 3 - Device 192.168.1.102 failed to authenticate
+2024-04-13 08:12:30 - Access point 1 - Connection lost with device 192.168.1.100
+2024-04-13 08:15:59 - Access point 2 - Connection established with device 192.168.1.103
+2024-04-13 08:20:04 - Access point 3 - Device 192.168.1.104 successfully connected
+2024-04-13 08:25:12 - Access point 1 - Connection established with device 192.168.1.105
+2024-04-13 08:30:45 - Access point 2 - Device 192.168.1.106 disconnected unexpectedly
+2024-04-13 08:35:21 - Access point 3 - Connection lost with device 192.168.1.107
+2024-04-13 08:40:10 - Access point 1 - Device 192.168.1.108 failed to associate
+2024-04-13 08:45:58 - Access point 2 - Error: Unable to establish connection with device 192.168.1.109
+2024-04-13 08:50:33 - Access point 3 - Device 192.168.1.110 disconnected due to error
+2024-04-13 08:55:20 - Access point 1 - Connection established with device 192.168.1.111

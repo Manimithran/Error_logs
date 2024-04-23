@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Display Logs</title>
+</head>
+<body>
+    <h1>Log Files Content</h1>
+    {% for filename, content in logs_content.items() %}
+        <h2>{{ filename }}</h2>
+        <pre>{{ content }}</pre>
+    {% endfor %}
+</body>
+</html>
