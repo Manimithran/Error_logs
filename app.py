@@ -7,9 +7,9 @@ import io
 app = Flask(__name__)
 
 # AWS S3 credentials
-AWS_ACCESS_KEY = 'AKIATCKASJT35FK6QHF6'
-AWS_SECRET_KEY = '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'
-S3_BUCKET_NAME = 'abi29'
+AWS_ACCESS_KEY = ''
+AWS_SECRET_KEY = ''
+S3_BUCKET_NAME = ''
 
 # Function to extract error lines from a file
 def extract_errors(file):
